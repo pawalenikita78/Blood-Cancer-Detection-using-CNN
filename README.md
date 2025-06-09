@@ -1,4 +1,4 @@
-# Blood Cancer Detection using Deep Learning
+# Blood Cancer Detection using CNN
 
 This project aims to develop a deep learning model for blood cancer detection using Convolutional Neural Networks (CNNs). The model achieves a high accuracy of over 99% in identifying various types of normal blood cells.
 
